@@ -151,7 +151,7 @@ background-color:#00000026;
 }
 
 #fundo{
-    display: flex;
+display: flex;
 background-image: url(https://st.depositphotos.com/1063437/2890/i/450/depositphotos_28904945-stock-photo-basket-of-fresh-organic-fruits.jpg);
 background-repeat: no-repeat;
 background-size: 550px;
@@ -163,10 +163,26 @@ border-radius: 10px;
 }
 
 
+#fundocima{
+display: flex;
+width: 282px;
+height: 50px;
+
+}
+
+
 #folha{
 width: 25px;
 height: 25px;
 margin-top: 25px;
 margin-left: 20px;
 
+}
+
+
+#frescor{
+font-size: 14px;
+margin-top: 15px;
+margin-left: 6px;
+color: #00ab9a
 }
