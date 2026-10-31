@@ -143,11 +143,19 @@ margin-left: 8px;
 }
 
 
+#traçobaixo{
+width: 360px;
+height: 1px;
+background-color:#00000026;
+
+}
+
 #fundo{
 background-image: url(https://st.depositphotos.com/1063437/2890/i/450/depositphotos_28904945-stock-photo-basket-of-fresh-organic-fruits.jpg);
 background-repeat: no-repeat;
-background-size: 465px, 260px;
+background-size: 50px, 200px
 height: 260px;
 margin-left: 6px;
+margin-top: 18px;
 border-radius: 5px;
 }
