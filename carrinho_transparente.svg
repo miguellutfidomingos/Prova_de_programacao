@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>Carrinho de compras</title>
+  <g fill="none" stroke="#000" stroke-width="15" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M53 48h19l25 128h105"/>
+    <path d="M82 77h129l-17 72H96"/>
+    <path d="M108 101h91M113 125h81" stroke-width="9"/>
+    <path d="M124 82l8 63M160 82l-4 63" stroke-width="9"/>
+  </g>
+  <g fill="#000">
+    <circle cx="115" cy="194" r="13"/>
+    <circle cx="184" cy="194" r="13"/>
+  </g>
+</svg>
