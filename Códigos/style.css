@@ -470,5 +470,11 @@ margin-left: 24px;
 padding-top: 21px;
 width: 25px;
 height: 25px;
+}
 
+
+#linhafixa{
+position: fixed;
+width: 360px;
+height: 54px;
 }
