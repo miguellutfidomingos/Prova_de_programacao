@@ -1,0 +1,576 @@
+#telainteira{
+    width: 360px;
+    height: 800px; 
+     }
+        
+    
+    #topo{ 
+    width: 345px;
+    height: 65px;
+    display: flex;
+    }
+    
+    
+    #ícone{
+    width: 50px;
+    height: 50px;
+    }
+    
+    
+    #íconinho{
+    width: 50px;
+    height: 50px;
+     }
+    
+    
+    #green{
+    color: green;
+    margin-top: -15px;
+    margin-left: 14px;
+    
+    }
+    
+    
+    #ponto{
+    color: black;
+    margin-top: -14px;
+    margin-left: 11px;
+    
+    }
+    
+    
+    #localizacao{
+    width: 18px;
+    height: 26px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: 21px;
+    
+    }
+    
+    
+    #pesquisa{
+    width: 345px;
+    height: 66px;
+    
+    }
+    
+    
+#fonte{
+    width: 286px;
+    height: 40px;
+    margin-left: 9px;
+    background-image: url(2866321.png);
+    background-color: lightgray;
+    padding-left: 5px;
+    border-radius: 10px;
+    
+    }   
+#menu{
+    display: flex;
+    width: 350px;
+    height: 45px;
+    }
+    
+    
+#tracinho{
+    background-color:#00000026;
+    width: 324px;
+    height:1px;
+    }
+
+    
+body{
+padding: 0px;
+margin: 0px;
+
+    }
+
+#íconecesta{
+width: 25px;
+height: 25px;
+margin-top: 6px;
+margin-left: 8px;
+}
+
+
+#divcategorias{
+font-size: small;
+margin-left: 7px;
+margin-top: 1px;
+
+}
+
+#seta{
+width: 10px;
+height: 10px;
+margin-top: 18px;
+margin-left: 7px;
+}
+
+
+#begin{
+width: 56px;
+height: 45px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+margin-left: 20px;
+background-color: #bafae450;
+color: rgba(6, 116, 6, 0.74);
+font-size: small;
+}
+
+
+#itália{
+background-color: green;
+width: 36.9167px;
+height: 30px;
+}
+
+
+#etiqueta{
+width:20px;
+height:20px;
+margin-top: 11px;
+margin-left: 4px;
+}
+
+
+#ofertas{
+font-size: small;
+margin-left: 8px;
+}
+
+
+#traçobaixo{
+width: 324px;
+height: 1px;
+background-color:#00000026;
+
+}
+
+#fundo{
+background-image: url(https://st.depositphotos.com/1063437/2890/i/450/depositphotos_28904945-stock-photo-basket-of-fresh-organic-fruits.jpg);
+background-repeat: no-repeat;
+background-size: 550px;
+width: 290px;
+height: 320px;
+margin-left: 17px;
+margin-top: 18px;
+border-radius: 10px;
+}
+
+
+#fundocima{
+display: flex;
+width: 282px;
+height: 50px;
+
+}
+
+
+#folha{
+width: 25px;
+height: 25px;
+margin-top: 25px;
+margin-left: 15px;
+
+}
+
+
+#frescor{
+font-size: 14px;
+margin-top: 15px;
+margin-left: 6px;
+color: #00ab9a
+}
+
+
+#mercado{
+margin-left: 16px;
+margin-top: -14px;
+color: #19281F;
+}
+
+
+#maisfresco{
+margin-left: 16px;
+margin-top: -18px;
+color: #19281F;
+}
+
+
+#perto{
+margin-left: 16px;
+margin-top: -18px;
+color: #02723B;
+}
+
+
+#escolha{
+margin-left: 16px;
+margin-top: -14px;
+}
+
+
+#aproveite{
+display: flex;
+align-items: center;
+width: 160px;
+height: 45px;
+border-radius: 6px;
+margin-left: 16px;
+padding-left: 6px;
+background-color: #007139;
+color: #E0EEE6;
+}
+
+
+#setabranca{
+display: flex;
+align-items: center;
+margin-left: 6px;
+width: 30px;
+height: 22px;
+}
+
+
+#longo{
+margin-top: 5px;
+margin-left: 120px;
+width: 25px;
+height: 9px;
+border-radius: 10px;
+background-color: #007139;
+}
+
+
+#ponto1{
+border-radius: 10px;
+margin-top:-9px;
+margin-left: 152px;
+width: 9px;
+height: 9px;
+background-color: #9ccba9d1;
+}
+
+
+#ponto2{
+background-color:#9ccba9d1 ;
+width: 9px;
+height: 9px;
+margin-left: 165px;
+margin-top: -9px;
+border-radius: 10px;
+}
+
+
+#célula{
+display: flex;
+margin-left: 17px;
+width: 291px;
+height: 95px;
+}
+
+
+#quadrado1{
+width: 97px;
+height: 95px;
+}
+
+
+#caminhao{
+margin-left: 35px;
+margin-top: 22px;
+width: 30px;
+height: 25px;
+}
+
+
+#porta{
+font-size: 14px;
+margin-left: 15px;
+margin-top: -4px;
+}
+
+
+#tracinho0{
+background-color: #E2E7E3;
+margin-top: 18px;
+width: 1px;
+height: 77px;
+}
+
+
+#quadrado2{
+width: 97px;
+height: 95px;
+}
+
+
+#folhinha{
+width: 25px;
+height: 25px;
+margin-left: 35px;
+margin-top: 22px;
+}
+
+
+#fresquinho{
+font-size: 14px;
+margin-top: -10px;
+margin-left: 15px;
+}
+
+
+#tracinho1{
+background-color:#E2E7E3;
+width: 1px;
+height: 77px;
+margin-top: 18px;
+}
+
+
+#quadrado3{
+width: 97px;
+height: 95px;
+}
+
+
+#escudo{
+width: 25px;
+height:25px;
+margin-top: 22px;
+margin-left: 35px;
+}
+
+
+#compre{
+font-size: 14px;
+margin-top: -10px;
+margin-left: 15px;
+}
+
+
+#tracinho3{
+margin-top: 20px;
+margin-left: 17px;
+width: 291px;
+height: 1px;
+background-color:#00000026 ;
+}
+
+
+#linhacesta{
+margin-left: 10px;
+display: flex;
+margin-top: 25px;
+width:360px;
+height: 55px;
+
+}
+
+
+#cesta{
+margin-top: -20px;
+}
+
+
+#tudo{
+margin-left: 4px;
+margin-top: -10px;
+color: #117B47;
+}
+
+
+#setaverde{
+width: 25px;
+height: 25px;
+margin-top: 3px;
+margin-left: -5px;
+}
+
+
+#linhacomida{
+display: flex;
+margin-left: 17px;
+margin-top: 10px;
+width: 360px;
+height: 46px;
+}
+
+
+#quadradomaça{
+background-color: #E0F5E4;
+width: 70px;
+height:46px;
+border-radius: 10px;
+margin-top: -8px;
+}
+
+
+#maçã{
+margin-left: 24px;
+padding-top: 21px;
+width: 25px;
+height: 25px;
+}
+
+
+#quadradocarne{
+background-color: #FFF4D7;
+width: 70px;
+height: 46px;
+border-radius: 10px;
+margin-top: -8px;
+margin-left: 5px;
+}
+
+
+#carne{
+margin-left: 24px;
+padding-top: 23px;
+width: 25px;
+height:25px;
+}
+
+
+#quadradoleite{
+background-color: #E5F5FD;
+width: 70px;
+height: 46px;
+border-radius: 10px;
+margin-top: -8px;
+margin-left: 5px;
+}
+
+
+#leite{
+margin-left: 22px;
+padding-top: 21px;
+width: 25px;
+height: 25px;
+}
+
+
+#quadradobolo{
+background-color: #E0F5E4;
+width: 70px;
+height: 46px;
+border-radius: 10px;
+margin-top: -8px;
+margin-left: 5px;
+}
+
+
+#bolo{
+margin-left: 24px;
+padding-top: 21px;
+width: 25px;
+height: 25px;
+}
+
+
+#linhafixa{
+display: flex;
+width: 360px;
+height: 54px;
+position: fixed;
+left: 17px;
+}
+
+
+#quadrado6{
+width: 70px;
+height: 54px;
+}
+
+
+#casa{
+width: 25px;
+height: 25px;
+margin-left: 23px;
+margin-top: 6px;
+}
+
+
+#começo{
+margin-left: 17px;
+margin-top: -18px;
+color: #44976E;
+}
+
+
+#quadrado7{
+width: 70px;
+height: 54px;
+}
+
+
+#compras{
+width: 25px;
+height: 25px;
+margin-left: 28px;
+margin-top: 7px;
+}
+
+
+#categorias2{
+margin-top: -19px;
+margin-left: 5px;
+}
+
+
+#quadrado8{
+width: 70px;
+height: 54px;
+}
+
+
+#coração{
+width: 25px;
+height: 25px;
+margin-left: 32px;
+margin-top: 7px;
+}
+
+#favoritos{
+margin-top: -19px;
+margin-left: 18px;
+}
+
+
+#quadrado9{
+width: 70px;
+height: 54px;
+}
+
+
+#carrinho{
+width: 35px;
+height: 35px;
+margin-left: 30px;
+}
+
+
+#baixo{
+display: flex;
+width: 70px;
+height: 20px;
+margin-left: 15px;
+}
+
+
+#carro{
+margin-top: -21px;
+padding-left: 5px;
+}
+
+
+#número{
+font-size: small;
+margin-top: -15px;
+margin-left: 4px;
+}
