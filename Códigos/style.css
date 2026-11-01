@@ -474,7 +474,51 @@ height: 25px;
 
 
 #linhafixa{
-position: fixed;
+display: flex;
 width: 360px;
 height: 54px;
+position: fixed;
+left: 17px;
+}
+
+
+#quadrado6{
+width: 70px;
+height: 54px;
+}
+
+
+#casa{
+width: 25px;
+height: 25px;
+margin-left: 23px;
+margin-top: 6px;
+}
+
+
+#começo{
+margin-left: 17px;
+margin-top: -18px;
+color: #44976E;
+}
+
+
+#quadrado7{
+width: 74px;
+height: 54px;
+}
+
+
+#compras{
+width: 25px;
+height: 25px;
+margin-left: 28px;
+margin-top: 7px;
+}
+
+
+#categorias{
+margin-top: -19px;
+margin-left: 5px;
+
 }
