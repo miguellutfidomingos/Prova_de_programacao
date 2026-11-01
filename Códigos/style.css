@@ -390,5 +390,19 @@ width: 25px;
 height: 25px;
 margin-top: 3px;
 margin-left: -5px;
+}
+
+
+#linhacomida{
+margin-left: 17px;
+width: 360px;
+height: 46px;
+}
+
+
+#quadradomaça{
+background-color: #E0F5E4;
+width: 90px;
+height:46px;
 
 }
