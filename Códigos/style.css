@@ -268,6 +268,7 @@ border-radius: 10px;
 
 
 #célula{
+display: flex;
 margin-left: 17px;
 width: 291px;
 height: 95px;
@@ -277,12 +278,84 @@ height: 95px;
 #quadrado1{
 width: 97px;
 height: 95px;
-background-color: lightblue;
 }
 
 
 #caminhao{
+margin-left: 35px;
+margin-top: 22px;
+width: 30px;
+height: 25px;
+}
+
+
+#porta{
+font-size: 14px;
+margin-left: 15px;
+margin-top: -4px;
+}
+
+
+#tracinho0{
+background-color: #E2E7E3;
+margin-top: 18px;
+width: 1px;
+height: 77px;
+}
+
+
+#quadrado2{
+width: 97px;
+height: 95px;
+}
+
+
+#folhinha{
 width: 25px;
 height: 25px;
+margin-left: 35px;
+margin-top: 22px;
+}
+
+
+#fresquinho{
+font-size: 14px;
+margin-top: -10px;
+margin-left: 15px;
+}
+
+
+#tracinho1{
+background-color:#E2E7E3;
+width: 1px;
+height: 77px;
+margin-top: 18px;
+}
+
+
+#quadrado3{
+width: 97px;
+height: 95px;
+}
+
+
+#escudo{
+width: 25px;
+height:25px;
+margin-top: 22px;
+margin-left: 35px;
+}
+
+
+#compre{
+font-size: 14px;
+margin-top: -10px;
+margin-left: 15px;
+}
+
+
+#tracinho3{
+width: 25px;
+height: 1px;
 
 }
