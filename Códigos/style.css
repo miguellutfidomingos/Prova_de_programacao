@@ -1,6 +1,6 @@
 #telainteira{
-    width: 350px;
-    height: 785px; 
+    width: 360px;
+    height: 800px; 
      }
         
     
@@ -355,7 +355,40 @@ margin-left: 15px;
 
 
 #tracinho3{
-width: 25px;
+margin-top: 20px;
+margin-left: 17px;
+width: 291px;
 height: 1px;
+background-color:#00000026 ;
+}
+
+
+#linhacesta{
+margin-left: 10px;
+display: flex;
+margin-top: 25px;
+width:360px;
+height: 55px;
+
+}
+
+
+#cesta{
+margin-top: -20px;
+}
+
+
+#tudo{
+margin-left: 4px;
+margin-top: -10px;
+color: #117B47;
+}
+
+
+#setaverde{
+width: 25px;
+height: 25px;
+margin-top: 3px;
+margin-left: -5px;
 
 }
