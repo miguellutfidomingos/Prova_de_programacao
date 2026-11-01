@@ -517,13 +517,61 @@ margin-top: 7px;
 }
 
 
-#categorias{
+#categorias2{
 margin-top: -19px;
 margin-left: 5px;
 }
 
 
-#quadrado0{
+#quadrado8{
 width: 70px;
 height: 54px;
+}
+
+
+#coração{
+width: 25px;
+height: 25px;
+margin-left: 32px;
+margin-top: 7px;
+}
+
+#favoritos{
+margin-top: -19px;
+margin-left: 18px;
+}
+
+
+#quadrado9{
+width: 70px;
+height: 54px;
+}
+
+
+#carrinho{
+width: 35px;
+height: 35px;
+margin-left: 30px;
+}
+
+
+#baixo{
+display: flex;
+width: 70px;
+height: 20px;
+margin-left: 15px;
+}
+
+
+#carro{
+margin-top: -21px;
+padding-left: 5px;
+}
+
+
+#número{
+font-size: small;
+margin-top: -15px;
+margin-left: 4px;
+
 }
