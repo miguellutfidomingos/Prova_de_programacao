@@ -234,5 +234,49 @@ align-items: center;
 margin-left: 6px;
 width: 30px;
 height: 22px;
+}
+
+
+#longo{
+margin-top: 5px;
+margin-left: 120px;
+width: 25px;
+height: 9px;
+border-radius: 10px;
+background-color: #007139;
+}
+
+
+#ponto1{
+border-radius: 10px;
+margin-top:-9px;
+margin-left: 152px;
+width: 9px;
+height: 9px;
+background-color: #9ccba9d1;
+}
+
+
+#ponto2{
+background-color:#9ccba9d1 ;
+width: 9px;
+height: 9px;
+margin-left: 165px;
+margin-top: -9px;
+border-radius: 10px;
+}
+
+
+#célula{
+margin-left: 17px;
+width: 291px;
+height: 95px;
+}
+
+
+#quadrado1{
+width: 97px;
+height: 95px;
+background-color: lightblue;
 
 }
